@@ -12,6 +12,7 @@ add_message_files(
   FILES
   PointArray.msg
   RobotPose.msg
+  referee.msg
 )
 
 ## Generate added messages and services
