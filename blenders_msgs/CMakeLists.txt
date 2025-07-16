@@ -13,6 +13,7 @@ add_message_files(
   PointArray.msg
   RobotPose.msg
   GoalParams.msg
+  referee.msg
 )
 
 ## Generate added messages and services
